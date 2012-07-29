@@ -1,0 +1,1 @@
+/home/lukegb/.cabal/bin/pandoc --smart --standalone --toc --bibliography "/home/lukegb/PGS Extend/main.bib" --csl /home/lukegb/.config/sublime-text-2/Packages/Pandoc\ Academic/Styles/harvard3.csl /home/lukegb/PGS\ Extend/main.md -o /home/lukegb/PGS\ Extend/main.html  -o main.pdf
